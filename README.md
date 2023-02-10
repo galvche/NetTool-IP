@@ -1,5 +1,5 @@
 # NetTool-IP
-- Este es un software de carácter público diseñador por y para estudiantes de Informática. 
-- Su código fuente está completamente diseñado en .NET
-- Según vaya avanzando el proyecto se irán implementando nuevas funcionalidades al programa.
-- Actualmente existe un bug en el funcionamiento de guardado de archivo ne format XML debido a incompatibilidades de software.
+- This is a public software designed by and for Computer Science students.
+- Its source code is completely designed in .NET
+- As the project progresses, new functionalities will be implemented in the program.
+- There is currently a bug in the file saving in XML format due to software incompatibilities.
