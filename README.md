@@ -1,10 +1,11 @@
 # NetTool-IP v1.00
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
   This is a public software designed by and for Computer Science students.
 
 - Language
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Its source code is completely designed in .NET
+
+
 
 - Functionalities
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -13,6 +14,8 @@ Currently the functionalities of this program are:
   - Advanced search for information based on a given IP address, such as geolocation and soon device security scanning.
   - Export of advanced information,
   - Export of the basic information of a list of active addresses previously saved in both .txt and .xml format.
+
+
 
 - Reported Bugs
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
