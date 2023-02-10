@@ -1,14 +1,14 @@
 # NetTool-IP v1.00
-  This is a public software designed by and for Computer Science students.
+##This is a public software designed by and for Computer Science students.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Language
+###Language:
 
   Its source code is completely designed in .NET
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Functionalities
+###Functionalities:
 
 Currently the functionalities of this program are:
   - Basic search for information based on a given IP address, such as the status of activity or inactivity of the equipment, name of the service provider and ADDS.
@@ -18,6 +18,6 @@ Currently the functionalities of this program are:
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Reported Bugs
+####Reported Bugs:
 
   There is currently a bug in the file saving in XML format due to software incompatibilities.
