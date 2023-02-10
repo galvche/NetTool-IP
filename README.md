@@ -2,7 +2,7 @@
 ### This is a public software designed by and for Computer Science students.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ⚙️ Language:
+### 💬 Language:
 
   Its source code is completely designed in .NET
 
