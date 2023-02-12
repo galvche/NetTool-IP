@@ -27,7 +27,7 @@ Currently the functionalities of this program are:
   
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🌐 Useful extermal URL´s:
+### 🌐 Useful external URL´s:
 
   - https://www.cual-es-mi-ip.net/
   - https://es.ipshu.com/ip-country/AR
