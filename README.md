@@ -16,7 +16,7 @@ Currently the functionalities of this program are:
   - Advanced search for information based on a given IP address, such as geolocation and soon device security scanning.
   - Export of advanced information,
   - Export of the basic information of a list of active addresses previously saved in both .txt and .xml format.
-  - Port scans using Nmap v7.93 application (Nmap must be installed manually if u want to use this funtion).
+  - Port scans using Nmap v7.93 application (Nmap must be installed manually if u want to use this function).
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
