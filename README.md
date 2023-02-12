@@ -20,7 +20,7 @@ Currently the functionalities of this program are:
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### ⚠️ Reported Bugs:
+### ⚠️ Reported Bugs:
 
   - There is currently a bug in the file saving in XML format due to software incompatibilities.
   - Form5 wont be closed automatically if you use the "Next" button as the Form2 does.
