@@ -1,4 +1,4 @@
-# NetTool-IP v1.3
+# NetTool-IP v1.4
 ### This is a public software designed by and for Computer Science students.
 ### The webpage is heree, finally! 
 #### https://germanalvarez5348.wixsite.com/nettoolip?classId=fb9634bb-d9f6-4a80-ab8e-0c499c0686cf&assignmenthttps://germanalvarez5348.wixsite.com/nettoolip?classId=fb9634bb-d9f6-4a80-ab8e-0c499c0686cf&assignmentId=3f302687-9917-49f6-9fdd-a49b15bb7eb2&submissionId=36b085dd-05f6-3b2a-757b-0c99f24fd46c
@@ -26,7 +26,7 @@ Currently the functionalities of this program are:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ⚠️ Reported Bugs:
 
-  - There is currently a bug in the file saving in XML format due to software incompatibilities.
+  - No more bugs for today baby 😎
 
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
